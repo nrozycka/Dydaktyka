@@ -1,10 +1,8 @@
 ---
-title: 'WIRDS: wprowadzenie do tidyr'
+title: "WIRDS: wprowadzenie do tidyr"
 author: "Maciej Beręsewicz"
 date: "20 Jan 2015"
-output:
-  slidy_presentation:
-    keep_md: yes
+output: slidy_presentation
 ---
 
 ## Pakiet tidyr
